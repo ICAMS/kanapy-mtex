@@ -1,0 +1,27 @@
+name: knpy
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - matplotlib
+  - ipython
+  - ipykernel
+  - jupyterlab
+  - notebook
+  - nb_conda_kernels
+  - pytest
+  - pytest-mock
+  - pytest-cov
+  - packaging
+  - sphinx
+  - sphinx_rtd_theme
+  - tqdm
+  - seaborn
+  - click
+  - orix
+  - scikit-image
+  - networkx
+  - jsonschema
