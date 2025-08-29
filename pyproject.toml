@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "kanapy-mtex"
-version = "6.5.0"
+version = "6.5.1"
 description = "Kanapy MTEX backend (requires Matlab installation)"
 authors = [
     { name = "Alexander Hartmaier", email = "alexander.hartmaier@rub.de" },
