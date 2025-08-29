@@ -1,4 +1,4 @@
-name: knpy
+name: knpy_mtex
 channels:
   - conda-forge
   - nodefaults
@@ -7,10 +7,8 @@ dependencies:
   - numpy
   - scipy
   - matplotlib
-  - ipython
-  - ipykernel
+  - jupyter
   - jupyterlab
-  - notebook
   - nb_conda_kernels
   - pytest
   - pytest-mock
